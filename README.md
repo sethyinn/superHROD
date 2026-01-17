@@ -52,24 +52,4 @@ The assistant follows a professional four-stage consultancy lifecycle:
 * `project-tracking`: Progress monitoring and risk alerting.
 
 ### Integrated Knowledge Base
-
-* **Best Practices:** A repository of world-class OD methodologies.
-* **Case Studies:** Cross-industry examples of successful transformations.
-* **Risk Database:** Pre-emptive identification of common project pitfalls.
-
----
-
-## 🖇️ Ecosystem Integration
-
-SuperHROD is built as a specialized extension of the **Superpowers** framework. While Superpowers handles generic software engineering and operational workflows, **SuperHROD** provides the domain-specific logic required for human capital and organizational strategy.
-
----
-
-## 📄 Documentation
-
-For technical details, architectural diagrams, and the full development roadmap, please refer to:
-`docs/plans/2026-01-17-superhr-od-advisor-design.md`
-
----
-
-**Would you like me to start by clarifying the requirements for a specific OD project you have in mind?**
+* **Best Practices:** A repository of common OD methodologies.
